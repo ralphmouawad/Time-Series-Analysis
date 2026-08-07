@@ -4,7 +4,7 @@ Labs:
 - State Space Modeling;
 
 Project:
-Fine-tuning of Time Series Foundation Models (TSFM) and Transformer based architectures.
+Fine-tuning of Time Series Foundation Models (TSFM) and Transformer based architectures for multivariate time series classification.
 
 Additional Notes:
-Included more in-depth notes on few chapters of the course to get a more detailed explanation of advanced topics.
+Included in-depth derivations of advanced topics in the course, notably in Neural ODEs, INRs, Probabilistic Forecasting and State-Space Models. 
